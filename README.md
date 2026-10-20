@@ -28,12 +28,6 @@ A free Obsidian starter vault for working with AI agents (Claude Code, Claude De
 - Agents never store secrets, ID numbers, health or financial data, or details about other people.
 - Every session ends with an entry in `Session Log.md`.
 
-## Full version
-The full kit ($19) adds 12 prompts, 4 agent runbooks, the complete memory system (Facts, Decisions, Active Context, Glossary), 10 templates, a Dataview dashboard, and a 25-page setup guide covering Claude Code, Claude Desktop through MCP, and ChatGPT/Grok:
-https://aimeowin.gumroad.com/l/ouzhcp
-
-The lite version is also on Gumroad: https://aimeowin.gumroad.com/l/bjaxq
-
 ## Notes
 - All example data is fictional.
 - Nothing in this vault connects to the internet. Your notes only go where you send them.
